@@ -1,0 +1,5 @@
+export const GET_EVENTS = "GET_EVENTS";
+export const GET_ERRORS = "GET_ERRORS";
+export const DELETE_EVENT = "DELETE_EVENT";
+export const GET_EVENT_BY_USER = "GET_EVENT_BY_USER";
+export const DELETE_EVENT_BY_USER = "DELETE_EVENT_BY_USER";
